@@ -1,0 +1,16 @@
+.venv/
+artefacts/
+__pycache__/
+*.pyc
+plans/book_figs/
+plans/pml_figs/
+plans/fcm_figs/
+plans/l7_figs/
+plans/assets/
+plans/presentations/
+plans/*.docx
+plans/*.pdf
+plans/_*
+tools/__pycache__/
+plans/presentations_5lect/
+
