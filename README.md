@@ -16,6 +16,7 @@
 
 - `plans/notebooks/lecture7_faces_pca_clustering.ipynb` — живой ноутбук: LFW, PCA, собственные лица, восстановление, k-средних, агломеративная, DBSCAN.
 - `plans/notebooks/README_Лекция_7.md` — как вести демонстрацию и что менять.
+- `STUDENTS.md` — как студенту забрать ноутбук и запустить у себя.
 - `requirements.txt` — зависимости для Binder/Codespaces.
 - `.devcontainer/devcontainer.json` — окружение Codespaces.
 
