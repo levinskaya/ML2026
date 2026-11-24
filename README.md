@@ -5,9 +5,9 @@
 ## Запуск ноутбука
 
 - **Colab:**
-  https://colab.research.google.com/github/aaguberniev/lect17/blob/main/plans/notebooks/lecture7_faces_pca_clustering.ipynb
+  https://colab.research.google.com/github/levinskaya/ML2026/blob/main/plans/notebooks/lecture7_faces_pca_clustering.ipynb
 - **Binder:**
-  https://mybinder.org/v2/gh/aaguberniev/lect17/HEAD?labpath=plans/notebooks/lecture7_faces_pca_clustering.ipynb
+  https://mybinder.org/v2/gh/levinskaya/ML2026/HEAD?labpath=plans/notebooks/lecture7_faces_pca_clustering.ipynb
 - **GitHub Codespaces:** Code → Codespaces → Open.
 
 Первый запуск скачивает Labeled Faces in the Wild (~200 МБ).
